@@ -27,3 +27,4 @@ Write a program that:
 Use the Gitter chat button on this page to talk about this assignment.
 Tutors are also standing by at each campus location.
 Your professor is also available via email or phone.
+[![Gitter](https://badges.gitter.im/valencia-cop1000-201620/week2-hello-world.svg)](https://gitter.im/valencia-cop1000-201620/week2-hello-world?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
